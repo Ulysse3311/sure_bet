@@ -12,3 +12,8 @@ Wikipedia
 * Install the Chrome Web Driver
 * Run all cells of the jupyter notebook
 * Every row with a "surebet" value bellow 1 is a surebet
+
+### Future improvements :
+* Adding more bookmakers 
+* Adding more sports
+* Automating the research
